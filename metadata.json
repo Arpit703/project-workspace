@@ -1,0 +1,6 @@
+{
+  "name": "Project Workspace",
+  "description": "A minimalist, high-performance Project Management Suite resembling Linear and Jira, with authentication, task assignment, role-based controls, dashboard analytics, and interactive kanban boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
